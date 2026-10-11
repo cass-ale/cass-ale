@@ -1,4 +1,4 @@
-# Jace Aleria
+# Jace Aléria
 **Technical Director — Live Broadcast / AV / XR**
 I run live productions that don't get a second take — and I build the software they run on.
 
