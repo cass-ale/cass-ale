@@ -1,1 +1,23 @@
-IyMgSmFjZSBBbMOpcmlhIPCfq6EKCioqVGVjaG5pY2FsIERpcmVjdG9yIOKAlCBMaXZlIEJyb2FkY2FzdCAvIEFWIC8gWFIqKgpJIHJ1biBsaXZlIHByb2R1Y3Rpb25zIHRoYXQgZG9uJ3QgZ2V0IGEgc2Vjb25kIHRha2Ug4oCUIGFuZCBJIGJ1aWxkIHRoZSBzb2Z0d2FyZSB0aGV5IHJ1biBvbi4KCiMjIyBXaGF0IEkgd29yayB3aXRoCgpgdGhyZWUuanNgIGBXZWJYUmAgYFJlYWN0YCBgUHl0aG9uYCBgQysrIC8gSlVDRWAgwrcgRGFudGUgKEwx4oCTTDMpIMK3IE5ESSDCtyBSb3NzIENhcmJvbml0ZS9Nb3NhaWMgwrcgdk1peCDCtyBUcmlDYXN0ZXIgwrcgWWFtYWhhIENMCgojIyMgUHJvamVjdHMKCnwgUHJvamVjdCB8IFdoYXQgaXQgaXMgfAp8LS0tfC0tLXwKfCBbRnJhbWVHdWFyZF0oaHR0cHM6Ly9naXRodWIuY29tL2Nhc3MtYWxlL0ZyYW1lR3VhcmQpIHwgRGVza3RvcCBRQSBhcHAgKFdpbmRvd3MvbWFjT1MpIGZvciBYUiB2aWRlbyBkZWxpdmVyYWJsZXMg4oCUIGF1dG9tYXRlZCBjaGVja3MgYWNyb3NzIG1ldGFkYXRhLCBjb2RlY3MsIGFuZCBzaWduYWwgaW50ZWdyaXR5IHwKfCBSZXNvbmFudCBIYW5kcyB8IFdlYlhSIG11c2ljIGFwcCBmb3IgTWV0YSBWUiBHbGFzc2VzICYgUXVlc3QgMy8zUyDigJQgaGFuZC13cml0dGVuIHRocmVlLmpzLCBzaW5nbGUtZmlsZSBidWlsZCAqKE1ldGEgVlIgU3RhcnQgRGV2ZWxvcGVyIENvbXBldGl0aW9uIGVudHJ5KSogfAoKIyMjIEN1cnJlbnRseQoK8J+OryBPcGVuIHRvIGZ1bGwtdGltZSBBViAvIFhSIC8gYnJvYWRjYXN0IC8gdGVjaG5pY2FsLWRpcmVjdGlvbiByb2xlcyDigJQgTllDIG9yIFVTLXJlbW90ZQoKIyMjIEVsc2V3aGVyZQoKW0xpbmtlZEluXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vY2Fzc2FsZSkgwrcgY2Fzcy5hbGVAb3V0bG9vay5jb20K
+## Jace Aléria 🫡
+
+**Technical Director — Live Broadcast / AV / XR**
+I run live productions that don't get a second take — and I build the software they run on.
+
+### What I work with
+
+`three.js` `WebXR` `React` `Python` `C++ / JUCE` · Dante (L1–L3) · NDI · Ross Carbonite/Mosaic · vMix · TriCaster · Yamaha CL
+
+### Projects
+
+| Project | What it is |
+|---|---|
+| [FrameGuard](https://github.com/cass-ale/FrameGuard) | Desktop QA app (Windows/macOS) for XR video deliverables — automated checks across metadata, codecs, and signal integrity |
+| Resonant Hands | WebXR music app for Meta VR Glasses & Quest 3/3S — hand-written three.js, single-file build *(Meta VR Start Developer Competition entry)* |
+
+### Currently
+
+🎯 Open to full-time AV / XR / broadcast / technical-direction roles — NYC or US-remote
+
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/cassale) · cass.ale@outlook.com
